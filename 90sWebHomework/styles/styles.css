@@ -40,7 +40,7 @@ nav ul{
    top: 0;
    left:0;
    width: 100%;
-   height: 30px;
+   height: 50px;
    background-color: rgb(131, 161, 150);
    text-align: center;
 }
@@ -49,6 +49,7 @@ nav li{
    display: inline;
    font-size: larger;
 }
+
 
 .fullWidth {
    width: 100%;
