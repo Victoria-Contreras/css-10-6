@@ -1,0 +1,2 @@
+The index file in the root directory is for my 90s web project homework. the rest of the files are in the 90sWebHomework folder. 
+I did this because i was trying to figure out Github pages but it didnt work for me. (YET)
